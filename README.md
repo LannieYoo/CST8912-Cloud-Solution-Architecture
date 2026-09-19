@@ -11,3 +11,7 @@ Lab work for CST8912 (Algonquin College, Cloud Development and Operations), Fall
 Hye Ran Yoo · Section 013
 
 Portfolio: <https://lannie-portfolio.onrender.com/>
+
+> **Note:** Only my personal projects are public on this GitHub account.
+> My professional (company) projects are in private repositories, so they are not visible here.
+> You can find a summary of that work on my portfolio site.
