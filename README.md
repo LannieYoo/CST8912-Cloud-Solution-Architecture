@@ -6,6 +6,7 @@ Lab work for CST8912 (Algonquin College, Cloud Development and Operations), Fall
 |---|---|---|
 | Lab 1 | Provisioning and Managing an Azure Virtual Machine | [lab1/README.md](lab1/README.md) |
 | Lab 2 | Azure VNet Peering and Private Connectivity | [lab2/README.md](lab2/README.md) |
+| Lab 3 | Azure Storage Account and SAS Tokens | [lab3/README.md](lab3/README.md) |
 
 ## About me
 
