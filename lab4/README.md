@@ -222,8 +222,6 @@ JOIN [SalesLT].[ProductCategory] AS c
 
 ![Resource groups after deletion](screenshots/19b-rg-deleted.png)
 
-- This report is the lab report.
-
 ## 7. Findings and analysis
 
 - **Azure SQL Database is a PaaS service.** I only chose the database name, the server name, the login and the firewall rules. Azure manages the server, the patches and the backups.
