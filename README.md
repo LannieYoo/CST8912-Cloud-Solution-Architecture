@@ -9,6 +9,7 @@ Lab work for CST8912 (Algonquin College, Cloud Development and Operations), Fall
 | Lab 3 | Azure Storage Account and SAS Tokens | [lab3/README.md](lab3/README.md) |
 | Lab 4 | Copying data from Azure SQL Database to Blob Storage with Azure Data Factory | [lab4/README.md](lab4/README.md) |
 | Lab 6 | Private access to an Azure Storage account with Azure Private Link and a Private Endpoint | [lab6/README.md](lab6/README.md) |
+| Lab 7 | Monitoring an Azure virtual machine with Azure Monitor: alerts, action groups, alert processing rules and Log Analytics | [lab7/README.md](lab7/README.md) |
 
 ## About me
 
