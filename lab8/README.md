@@ -21,7 +21,7 @@ I used a tag, two Azure policies and a resource lock on one resource group. The 
 5. Clean up the resources (Task 5).
 
 ```mermaid
-%%{init: {"flowchart": {"nodeSpacing": 30, "rankSpacing": 34, "padding": 8}, "themeVariables": {"fontSize": "15px"}}}%%
+%%{init: {"flowchart": {"nodeSpacing": 30, "rankSpacing": 34, "padding": 8, "wrappingWidth": 480}, "themeVariables": {"fontSize": "15px"}}}%%
 flowchart TB
     T1["<b>Task 1 · Assign tags</b><br/>Resource group CST8912 · Canada Central<br/>Tag Cost Center : 000"]
     subgraph T2["Task 2 · Enforce tagging"]
